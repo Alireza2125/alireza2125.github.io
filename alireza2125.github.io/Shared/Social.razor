@@ -1,0 +1,11 @@
+﻿<a href="@Url">
+    <span>@Title</span>
+</a>
+
+@code {
+    [Parameter]
+    public string? Title { get; set; }
+
+    [Parameter]
+    public string? Url { get; set; }
+}

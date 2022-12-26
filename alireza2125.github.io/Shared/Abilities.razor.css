@@ -1,0 +1,9 @@
+﻿div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: var(--size-xs);
+    background-color: darkred;
+    border-radius: var(--size-2xs);
+    padding: var(--size-xs);
+}

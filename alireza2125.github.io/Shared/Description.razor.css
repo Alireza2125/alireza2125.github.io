@@ -1,0 +1,9 @@
+﻿
+div {
+    display: flex;
+    flex-direction: column;
+    gap: var(--size-xs);
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}

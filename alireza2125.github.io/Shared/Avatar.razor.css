@@ -1,0 +1,6 @@
+﻿img {
+    flex: 0 0 auto;
+    height: var(--size-2xl);
+    width: var(--size-2xl);
+    border-radius: var(--size-2xs);
+}

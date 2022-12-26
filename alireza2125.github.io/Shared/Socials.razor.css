@@ -1,0 +1,12 @@
+﻿div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: darkred;
+    min-width: var(--size-xl);
+    gap: var(--size-xs);
+    border-radius: var(--size-2xs);
+    padding: var(--size-xs);
+    justify-content: center;
+    align-items: center;
+}

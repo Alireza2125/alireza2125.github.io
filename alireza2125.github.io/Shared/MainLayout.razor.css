@@ -1,0 +1,16 @@
+﻿main {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    margin: auto;
+    padding: var(--size-xs);
+    gap: var(--size-xs);
+    max-width: var(--size-4xl);
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    gap: var(--size-xs);
+}

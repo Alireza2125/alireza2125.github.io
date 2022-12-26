@@ -1,0 +1,14 @@
+﻿a {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    gap: var(--size-xs);
+    border-radius: var(--size-2xs);
+    padding: var(--size-xs);
+    overflow: hidden;
+    color: antiquewhite;
+}
+
+
+span {
+}

@@ -1,0 +1,12 @@
+﻿<section>
+    <h1>@Title</h1>
+    @ChildContent
+</section>
+
+@code {
+    [Parameter]
+    public string? Title { get; set; }
+
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+}
