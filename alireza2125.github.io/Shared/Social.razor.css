@@ -1,10 +1,10 @@
 ﻿a {
     display: flex;
     flex-direction: column;
-    background-color: red;
-    gap: var(--size-xs);
-    border-radius: var(--size-2xs);
-    padding: var(--size-xs);
+    background-color: var(--color-card);
+    gap: var(--gap);
+    border-radius: var(--radius);
+    padding: var(--padding);
     overflow: hidden;
     color: antiquewhite;
 }

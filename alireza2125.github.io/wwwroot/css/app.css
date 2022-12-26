@@ -1,7 +1,13 @@
 ﻿:root {
     --color-text: white;
-    --color-background: darkred;
+    --color-card: rgba(0,0,0,0.25);
+    --color-background: rgb(79, 0, 194);
 
+    --radius: 1rem;
+    --padding: 1rem;
+    --gap: 0.5rem;
+    --margin: 1rem;
+    
     --size-4xs: 0.0625rem;
     --size-3xs: 0.125rem;
     --size-2xs: 0.25rem;

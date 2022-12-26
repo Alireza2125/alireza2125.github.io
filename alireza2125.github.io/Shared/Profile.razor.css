@@ -1,7 +1,7 @@
 ﻿div {
     display: flex;
     flex-direction: row;
-    gap: var(--size-xs);
-    background-color: darkred;
-    border-radius: var(--size-2xs);
+    gap: var(--gap);
+    background-color: var(--color-background);
+    border-radius: var(--radius);
 }

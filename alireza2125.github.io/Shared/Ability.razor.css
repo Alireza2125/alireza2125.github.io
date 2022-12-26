@@ -4,9 +4,13 @@
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 0;
-    background-color: red;
+    background-color: var(--color-card);
     min-width: var(--size-xl);
-    gap: var(--size-xs);
-    border-radius: var(--size-2xs);
-    padding: var(--size-xs);
+    gap: var(--gap);
+    border-radius: var(--radius);
+    padding: var(--padding);
+}
+
+h1 {
+    text-decoration: underline;
 }

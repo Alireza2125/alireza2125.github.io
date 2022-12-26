@@ -4,13 +4,13 @@
     color: white;
     background-color: black;
     margin: auto;
-    padding: var(--size-xs);
-    gap: var(--size-xs);
+    padding: var(--padding);
+    gap: var(--gap);
     max-width: var(--size-4xl);
 }
 
 article {
     display: flex;
     flex-direction: column;
-    gap: var(--size-xs);
+    gap: var(--gap);
 }
